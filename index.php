@@ -41,9 +41,6 @@ echo 'Bonjour '.$_GET['nom'].' '.$_GET['prenom'].' vous habitez le '.$_GET['num'
 
 
 
-
-
-
 ?>
 
 
