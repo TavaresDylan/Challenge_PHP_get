@@ -11,10 +11,10 @@
 <body>
 
    
-<div class="container-fluid bg-primary">
+<div class="container-fluid bg-primary p-3">
 
 	<form method="Get"> 
-		<div class="form-row">
+		<div class="form-row border border-dark p-3 rounded">
 
         	<div class="col-md-6 mb-3 mt-3">
 				<label>Nom  :</label>
