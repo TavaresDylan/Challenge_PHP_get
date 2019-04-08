@@ -18,43 +18,43 @@
 
         	<div class="col-md-6 mb-3 mt-3">
 				<label>Nom  :</label>
-					<input type="text" name="nom" required="true" value="Votre nom*" >
+					<input class="rounded" type="text" name="nom" required="true" value="Votre nom*" >
 				</br />
 			</div>
 
 			<div class="col-md-6 mb-3 mt-3">
 				<label>Prénom :</label>
-					<input type="text" name="prenom" required="true" value="Votre prénom *">
+					<input class="rounded" type="text" name="prenom" required="true" value="Votre prénom *">
 				</br />
 			</div>
 
 			<div class="col-md-6 mb-3">
 				<label>N° de Rue :</label>
-					<input type="number" name="num" value="Votre numéro de rue">
+					<input class="rounded" type="number" name="num" value="Votre numéro de rue">
 				</br />
 			</div>
 
 			<div class="col-md-6 mb-3">
 				<label>Type de voie :</label>
-					<input type="text" name="voie" value="Votre type de voie">
+					<input class="rounded" type="text" name="voie" value="Votre type de voie">
 				</br />
 			</div>
 
 			<div class="col-md-6 mb-3">
 				<label>Nom de rue :</label>
-					<input type="text" name="rue" required="true" value="Votre rue*">
+					<input class="rounded" type="text" name="rue" required="true" value="Votre rue*">
 				</br />
 			</div>
 
 			<div class="col-md-6 mb-3">
 				<label>Code postal :</label>
-					<input type="number" name="cp" required="true" value="Votre code postal*">
+					<input class="rounded" type="number" name="cp" required="true" value="Votre code postal*">
 				</br />
 			</div>
 
 			<div class="col-md-6 mb-3">
 				<label>Ville</label>
-					<input type="text" name="ville" required="true" value="Votre ville">
+					<input class="rounded" type="text" name="ville" required="true" value="Votre ville">
 				</br />
 			</div>
 
